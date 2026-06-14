@@ -1,6 +1,6 @@
 # AutoPixel
 
-**English** | [한국어](#) <!-- replace # with the README-KR link after deployment -->
+**English** | [한국어](https://github.com/JTech-CO/AutoPixel/blob/main/README-KR.md)
 
 > **A Windows auto-mouse (AutoHotkey) that automatically draws pixel art on wplace.live as lines and rectangles.**
 
