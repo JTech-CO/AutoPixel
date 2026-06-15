@@ -44,7 +44,7 @@ AutoPixel is an **AutoHotkey-based auto-mouse** built to automate the repetitive
    - **Rectangle mode**: `F2` (top-left) → `F3` (end of the same row) → `F7` (a point in another row) → `F4` to run
    - **Stop**: `Esc` or `F6`
    - `N` (line cells / rectangle columns) fills automatically once calibrated; you can still edit it manually. Defaults: delay `50` ms, jitter `25` %.
-   - See [`How-to-use-AutoPixel.md`](How-to-use-AutoPixel.md) (English) or [`AutoPixel-사용법.md`](AutoPixel-사용법.md) (Korean) for the detailed guide.
+   - See [`How-to-use-AutoPixel.md`](How-to-use-AutoPixel.md) for the detailed guide.
 
 ## 4. Structure
 
