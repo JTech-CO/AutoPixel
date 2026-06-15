@@ -1,6 +1,6 @@
 # AutoPixel
 
-**English** | [한국어](https://github.com/JTech-CO/AutoPixel/blob/main/README-KR.md)
+**English** | [한국어](#) <!-- replace # with the README-KR link after deployment -->
 
 > **A Windows auto-mouse (AutoHotkey) that automatically draws pixel art on wplace.live as lines and rectangles.**
 
@@ -11,7 +11,8 @@ AutoPixel is an **AutoHotkey-based auto-mouse** built to automate the repetitive
 **Features**
 - **Line mode**: Pick a start and end point; the span is evenly divided into N cells and a single line is filled automatically.
 - **Rectangle mode**: Pick 3 points (start / end of the same row / a point in another row) to fill a rectangular area row by row (the number of rows is computed automatically).
-- **Pixel-art UI**: Dark theme + pixel logo + retro font (readability first).
+- **Auto cell-count**: Calibrate the cell size once with `F8` (mark two adjacent cells); afterward the count `N` fills in automatically when you pick the start/end — no counting cells for large drawings.
+- **Pixel-art UI**: Dark theme, pixel logo, and on-screen **keycaps that highlight when you press a key** (and stay lit while running) so you can see what's happening.
 - **Delay & jitter** controls to tune speed and reduce regularity.
 
 ## 2. Tech Stack
@@ -24,10 +25,10 @@ AutoPixel is an **AutoHotkey-based auto-mouse** built to automate the repetitive
 
 ## 3. Quick Start
 
-**Requirements**: Windows + [AutoHotkey v2](https://www.autohotkey.com)
+**Requirements**: Windows + [AutoHotkey v2](https://www.autohotkey.com/download/ahk-v2.exe)
 
 1. **Install**
-   - Install AutoHotkey **v2**.
+   - Install **AutoHotkey v2** — direct download: https://www.autohotkey.com/download/ahk-v2.exe
    - Download or clone this repository.
    ```bash
    git clone <repository-url>
@@ -38,9 +39,11 @@ AutoPixel is an **AutoHotkey-based auto-mouse** built to automate the repetitive
    - A panel appears at the top-left when it is ready.
 
 3. **Usage**
-   - **Line mode**: `F2` (start) → `F3` (end) → enter `N (cells)` → `F4` to run
-   - **Rectangle mode**: `F2` (top-left) → `F3` (end of the same row) → `F7` (a point in another row) → enter `N (columns)` → `F4` to run
+   - **(Once) Calibrate cell size**: press `F8` over a cell, then `F8` over the adjacent cell. The cell size is learned and `N` auto-fills afterward. (Re-do after changing zoom.)
+   - **Line mode**: `F2` (start) → `F3` (end) → `F4` to run
+   - **Rectangle mode**: `F2` (top-left) → `F3` (end of the same row) → `F7` (a point in another row) → `F4` to run
    - **Stop**: `Esc` or `F6`
+   - `N` (line cells / rectangle columns) fills automatically once calibrated; you can still edit it manually. Defaults: delay `50` ms, jitter `25` %.
    - See [`AutoPixel-사용법.md`](AutoPixel-사용법.md) for the detailed guide (Korean).
 
 ## 4. Structure
@@ -59,6 +62,7 @@ AutoPixel/
 
 ## 5. Info
 
+- **Version**: 1.1.0
 - **License**: MIT
 - **Privacy**: [privacy-policy.html](privacy-policy.html) — collects/transmits no data (local only)
 - **Contact**: GitHub Issues
