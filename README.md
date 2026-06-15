@@ -72,4 +72,4 @@ AutoPixel/
 
 - AutoPixel is an **auto-mouse** that automates mouse/keyboard input. wplace may restrict automation, and **you are solely responsible** for any consequences (e.g., account bans).
 - Use it only within **your own account and your own paint charges**. Do not set the delay too low (use jitter).
-- This tool is provided for personal/educational use; the author is not responsible for misuse.
+- This tool is provided for personal use; the author is not responsible for misuse.
