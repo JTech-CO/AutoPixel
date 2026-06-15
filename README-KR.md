@@ -1,6 +1,6 @@
 # AutoPixel
 
-[English](https://github.com/JTech-CO/AutoPixel/blob/main/README.md) | **한국어**
+[English](#) | **한국어** <!-- 배포 후 # 를 README(영문) 링크로 교체 -->
 
 > **wplace.live의 픽셀아트를 직선·사각형으로 자동으로 그려주는 Windows 오토마우스 (AutoHotkey)**
 
@@ -63,13 +63,13 @@ AutoPixel/
 
 ## 5. 정보 (Info)
 
-- **Version**: 1.1.0
+- **Version**: 1.1.1
 - **License**: MIT
-- **Privacy**: [privacy-policy.html](<https://jtech-co.github.io/AutoPixel/privacy-policy.html>) — 어떤 데이터도 수집·전송하지 않습니다 (로컬 전용)
+- **Privacy**: [privacy-policy.html](privacy-policy.html) — 어떤 데이터도 수집·전송하지 않습니다 (로컬 전용)
 - **Contact**: GitHub Issues
 
 ## ⚠️ 주의 (Disclaimer)
 
 - AutoPixel은 마우스·키보드를 자동으로 조작하는 **오토마우스**입니다. wplace는 자동화를 제한할 수 있으며, 사용에 따른 **계정 제재 등 모든 책임은 사용자 본인**에게 있습니다.
 - 반드시 **본인 계정·본인 충전량** 범위에서만 사용하고, 딜레이를 너무 짧게 두지 마세요(지터 사용 권장).
-- 본 도구는 개인 용도로 제공되며, 제작자는 오·남용에 대한 책임을 지지 않습니다.
+- 본 도구는 개인·학습 용도로 제공되며, 제작자는 오·남용에 대한 책임을 지지 않습니다.

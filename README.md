@@ -1,6 +1,6 @@
 # AutoPixel
 
-**English** | [한국어](https://github.com/JTech-CO/AutoPixel/blob/main/README-KR.md) 
+**English** | [한국어](#) <!-- replace # with the README-KR link after deployment -->
 
 > **A Windows auto-mouse (AutoHotkey) that automatically draws pixel art on wplace.live as lines and rectangles.**
 
@@ -44,7 +44,7 @@ AutoPixel is an **AutoHotkey-based auto-mouse** built to automate the repetitive
    - **Rectangle mode**: `F2` (top-left) → `F3` (end of the same row) → `F7` (a point in another row) → `F4` to run
    - **Stop**: `Esc` or `F6`
    - `N` (line cells / rectangle columns) fills automatically once calibrated; you can still edit it manually. Defaults: delay `50` ms, jitter `25` %.
-   - See [`How-to-use-AutoPixel.md`](How-to-use-AutoPixel.md) for the detailed guide.
+   - See [`How-to-use-AutoPixel.md`](How-to-use-AutoPixel.md) (English) or [`AutoPixel-사용법.md`](AutoPixel-사용법.md) (Korean) for the detailed guide.
 
 ## 4. Structure
 
@@ -63,13 +63,13 @@ AutoPixel/
 
 ## 5. Info
 
-- **Version**: 1.1.0
+- **Version**: 1.1.1
 - **License**: MIT
-- **Privacy**: [privacy-policy.html](<https://jtech-co.github.io/AutoPixel/privacy-policy.html>) — collects/transmits no data (local only)
+- **Privacy**: [privacy-policy.html](privacy-policy.html) — collects/transmits no data (local only)
 - **Contact**: GitHub Issues
 
 ## ⚠️ Disclaimer
 
 - AutoPixel is an **auto-mouse** that automates mouse/keyboard input. wplace may restrict automation, and **you are solely responsible** for any consequences (e.g., account bans).
 - Use it only within **your own account and your own paint charges**. Do not set the delay too low (use jitter).
-- This tool is provided for personal use; the author is not responsible for misuse.
+- This tool is provided for personal/educational use; the author is not responsible for misuse.

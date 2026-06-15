@@ -1,4 +1,4 @@
-# How to Use AutoPixel · v1.1.0
+# How to Use AutoPixel · v1.1.1
 
 AutoPixel is an **auto-mouse** that reproduces real manual actions by automating the mouse and keyboard.
 It is a **completely separate program** from the Chrome extension (`wplace-2click`) and is self-contained in this single folder (you can move the whole folder anywhere).
