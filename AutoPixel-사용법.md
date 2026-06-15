@@ -91,7 +91,8 @@
 | `AutoPixel.ahk` | 본체 스크립트 (직선·사각형 모드, 키캡 UI) |
 | `AutoPixel-실행.bat` | 더블클릭 실행기 (AHK 경로 자동 탐색) |
 | `AutoPixel-진단.bat` | 실행 문제 진단용 |
-| `AutoPixel-사용법.md` | 이 문서 |
+| `AutoPixel-사용법.md` | 이 문서 (국문) |
+| `How-to-use-AutoPixel.md` | 영문 사용 가이드 |
 | `README.md` / `README-KR.md` | 영문 / 국문 소개 |
 | `privacy-policy.html` | 개인정보 처리방침 (EN/KO 전환) |
 | `logo.png` | 로고 |

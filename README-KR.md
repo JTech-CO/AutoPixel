@@ -1,6 +1,6 @@
 # AutoPixel
 
-[English](https://github.com/JTech-CO/AutoPixel/blob/main/README.md) | **한국어**
+[English](#) | **한국어** <!-- 배포 후 # 를 README(영문) 링크로 교체 -->
 
 > **wplace.live의 픽셀아트를 직선·사각형으로 자동으로 그려주는 Windows 오토마우스 (AutoHotkey)**
 
@@ -53,7 +53,8 @@ AutoPixel/
 ├── AutoPixel.ahk         # 본체 스크립트 (직선·사각형 모드)
 ├── AutoPixel-실행.bat     # 더블클릭 실행기 (AHK 경로 자동 탐색)
 ├── AutoPixel-진단.bat     # 실행 문제 진단용
-├── AutoPixel-사용법.md    # 상세 사용법
+├── AutoPixel-사용법.md    # 상세 사용법 (국문)
+├── How-to-use-AutoPixel.md # 상세 사용법 (영문)
 ├── logo.png              # 아이콘 / 로고
 ├── privacy-policy.html   # 개인정보 처리방침 (EN / KO 전환)
 ├── README.md             # 영문
