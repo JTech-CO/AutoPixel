@@ -65,7 +65,7 @@ AutoPixel/
 
 - **Version**: 1.1.0
 - **License**: MIT
-- **Privacy**: [privacy-policy.html](privacy-policy.html) — 어떤 데이터도 수집·전송하지 않습니다 (로컬 전용)
+- **Privacy**: [privacy-policy.html](<https://jtech-co.github.io/AutoPixel/privacy-policy.html>) — 어떤 데이터도 수집·전송하지 않습니다 (로컬 전용)
 - **Contact**: GitHub Issues
 
 ## ⚠️ 주의 (Disclaimer)
